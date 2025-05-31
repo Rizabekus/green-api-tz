@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Output from TypeScript
+dist/
+build/
+
+# Environment variables
+.env
+
+# Jest coverage
+coverage/
+
+# Logs
+*.log
+
+# IDE-specific
+.vscode/
+.idea/
